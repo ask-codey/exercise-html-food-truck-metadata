@@ -1,0 +1,36 @@
+/* A ready-made stylesheet for the Rolling Tacos page. You don't need to change it. */
+:root {
+  --orange: #e8590c;
+  --ink: #2b2118;
+  --paper: #fff8f0;
+  --line: #f1d3b8;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+header, main, footer {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+header { text-align: center; }
+h1 { color: var(--orange); font-size: 2.5rem; margin-bottom: 0; }
+h2 { border-bottom: 3px solid var(--line); padding-bottom: 0.25rem; }
+
+img { max-width: 100%; height: auto; border-radius: 0.75rem; }
+
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 0.5rem; border-bottom: 1px solid var(--line); }
+
+ul { padding-left: 1.25rem; }
+address { font-style: normal; }
+footer { font-size: 0.9rem; text-align: center; }

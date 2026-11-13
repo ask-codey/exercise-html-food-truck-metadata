@@ -1,0 +1,39 @@
+ROLLING TACOS: THE FACTS FOR THE PAGE'S HEAD
+(Everything here is also on the page. Copy from it, so the head and the page always agree.)
+
+The truck's website, the address this page lives at:
+  https://rollingtacos.example/
+
+The share picture, the photo of the truck (1200 by 630 pixels), once the site is online:
+  https://rollingtacos.example/share-image.jpg
+  What it shows: The bright orange Rolling Tacos truck parked under string lights, with a line of customers at its window.
+
+The kind of food:
+  Mexican street tacos
+
+Price range:
+  $  (everything on the menu is under $7)
+
+Phone:
+  (541) 555-0142   written for machines as: +1-541-555-0142
+
+The fall spot (new this season):
+  Riverside Brewing parking lot
+  75 River Road
+  Fairview, OR 97000
+  United States (US)
+
+Where that is on a map:
+  latitude 44.04712, longitude -123.02153
+
+The fall schedule:
+  Tuesday, Wednesday, Thursday   11:00 a.m. to 2:00 p.m.   (11:00 to 14:00)
+  Friday, Saturday               11:00 a.m. to 9:00 p.m.   (11:00 to 21:00)
+  Sunday, Monday                 closed
+
+The menu:
+  Carne asada taco      $3.75
+  Chicken tinga taco    $3.50
+  Grilled veggie taco   $3.50
+  Cheese quesadilla     $6.00
+  Horchata              $3.00
